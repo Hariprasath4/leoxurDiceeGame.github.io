@@ -1,26 +1,26 @@
-body {
-    background-color: #cfbaf0;
+
+
+.navbar{
+    background-color:#f1efe5;
 }
 
-
-.container{
-    text-align: center;
-    margin: auto;
-    width: 70%;
+.bg {
+    background-color: #f1efe5;
 }
-
-.dice {
-    text-align: center;
-    display: inline-block;
     
-}
 
-h1{
+
+.f{
     font-family: 'Lobster', cursive;
-    font-size: 6rem;
     color: #52b788;
     text-shadow: 3px 0 #232931;
-    margin: 30px;
+
+}
+.display-6{
+    font-family: 'Lobster', cursive;
+    
+    text-shadow: 3px 0 #232931;
+
 }
 
 p{
@@ -31,26 +31,13 @@ p{
     
 }
 
-img{
-    width: 80%;
+.img{
+    width: 50%;
 }
 
-.btn{
-    margin-top: 10%;
-    width: 6rem;
-    height: 3rem;
-    border-radius: 12%;
-    box-shadow: 2px 1px 1px #4c3f5e;
-    border-style: hidden; 
-    font-size: 1rem;
-    font-weight: 700; 
-    background-color: #9c060c;
-    color: #faf1d8;
-    transition: box-shadow 0.3s; 
-}
 
 .btn:hover{
-    box-shadow: 6px 3px 3px #4c3f5e;
+    box-shadow: 12px 6px 6px #4c3f5e;
 
     cursor:pointer;
 
